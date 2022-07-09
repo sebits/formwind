@@ -1,0 +1,13 @@
+node_modules
+/build-docs
+/build
+.DS_Store
+.tern-port
+*~
+\#*\#
+.\#*
+.projectile
+.vscode
+npm-debug.log
+.next
+yarn-error.log
